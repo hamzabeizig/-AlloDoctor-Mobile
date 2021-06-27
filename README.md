@@ -3,7 +3,7 @@
  
  
 Ceci est le code FRONTEND de l'application mobile AlloDoctor devellopée en React Native 
-NB : Cette Application exisite en Version Web (Consulter la repository nommée 'AlloDoctor-Web'
+NB : Cette Application exisite en Version Web (Consulter la repository nommée 'AlloDoctor-Web')
 
 ---------------------------
 
